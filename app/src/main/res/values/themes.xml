@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AndroidLabs" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+       
+    </style>
+
+    <style name="Theme.Lab6" parent="Base.Theme.Lab6" />
+</resources>
